@@ -8,7 +8,7 @@
 
 **Author:** Bharath Kumar G  
 **Institution:** Master of Technology in Computer Science and Engineering, Alliance University, Bengaluru, India  
-**Correspondence:** bharathkumarg2017g@gmail.com  
+**Correspondence:**  
 
 ---
 
