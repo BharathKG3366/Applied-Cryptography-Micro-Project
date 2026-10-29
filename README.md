@@ -7,8 +7,7 @@
 [![Conference](https://img.shields.io/badge/Target-Elsevier%20Procedia%20Computer%20Science%20(ICMLDE)-purple.svg)]()
 
 **Author:** Bharath Kumar G  
-**Institution:** Master of Technology in Computer Science and Engineering  
-**Correspondence:**  
+**Institution:** Master of Technology in Computer Science and Engineering    
 
 ---
 
